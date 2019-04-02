@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tegar resa", "tegar resa\tegar resa.csproj", "{9F6275A4-6170-4A83-8BEB-0DE88AA7DE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6275A4-6170-4A83-8BEB-0DE88AA7DE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6275A4-6170-4A83-8BEB-0DE88AA7DE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6275A4-6170-4A83-8BEB-0DE88AA7DE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6275A4-6170-4A83-8BEB-0DE88AA7DE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA98E609-67B0-431E-B41F-B3E847B95B2A}
+	EndGlobalSection
+EndGlobal

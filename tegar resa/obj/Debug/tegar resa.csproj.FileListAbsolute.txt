@@ -1,0 +1,7 @@
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\obj\Debug\tegar resa.csprojAssemblyReference.cache
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\obj\Debug\tegar resa.csproj.CoreCompileInputs.cache
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\bin\Debug\tegar resa.exe.config
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\bin\Debug\tegar resa.exe
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\bin\Debug\tegar resa.pdb
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\obj\Debug\tegar resa.exe
+D:\18.11.2249\latihan 2\tegar resa\tegar resa\obj\Debug\tegar resa.pdb
